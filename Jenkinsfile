@@ -1,3 +1,4 @@
+#!groovy
 def pom
 pipeline {
   agent any
